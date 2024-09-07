@@ -42,3 +42,6 @@ python3 agent.py
 - **user-agents.net**:
     Setelah menentukan jumlah User-Agent yang diinginkan, mereka akan disimpan ke user_agents_random.txt dan ditampilkan di terminal.
     
+# x
+
+<img src="https://raw.githubusercontent.com/Fajarxyta/User-Agent-List/main/img/20240907_194342.png"/>

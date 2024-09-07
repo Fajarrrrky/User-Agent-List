@@ -6,8 +6,8 @@
 
 - **Mengambil Brand dari WhatMyUserAgent**: Mendapatkan daftar brand dari situs web WhatMyUserAgent.
 - **Mengambil Model dari Brand yang Dipilih**: Mendapatkan daftar model dari brand yang dipilih oleh pengguna.
-- **Menyimpan User-Agent**: User-Agent dari model yang dipilih akan disimpan ke dalam file `/sdcard/user_agents_random.txt`.
-- **Mengambil User-Agent dari user-agents.net**: Mengambil daftar User-Agent secara acak dari user-agents.net dengan batasan yang ditentukan oleh pengguna dan menyimpannya ke dalam file `/sdcard/user_agents.txt`.
+- **Menyimpan User-Agent**: User-Agent dari model yang dipilih akan disimpan ke dalam file `nama-model.txt`.
+- **Mengambil User-Agent dari user-agents.net**: Mengambil daftar User-Agent secara acak dari user-agents.net dengan batasan yang ditentukan oleh pengguna dan menyimpannya ke dalam file `user_agents_random.txt `.
 
 ## Prasyarat
 

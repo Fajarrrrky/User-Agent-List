@@ -1,6 +1,6 @@
 # User-Agent-List
 
-**User-Agent-List** adalah script Python yang digunakan untuk mengumpulkan daftar User-Agent dari dua situs web populer: **WhatMyUserAgent** dan **user-agents.net**. Script ini akan menampilkan pilihan brand dan model perangkat, lalu menyimpan User-Agent yang terkait ke dalam file teks.
+**User-Agent-List** adalah script Python yang digunakan untuk mengumpulkan daftar User-Agent dari dua situs web populer: **WhatMyUserAgent** dan **user-agents.net**. Script ini akan menampilkan pilihan brand dan model perangkat, lalu menyimpan User-Agent yang terkait ke dalam file text.
 
 ## Fitur
 

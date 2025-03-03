@@ -17,7 +17,7 @@ Sebelum menjalankan script ini, pastikan kamu telah menginstal semua dependensi 
 pkg update && pkg upgrade
 pip install requests
 pip install requests beautifulsoup4
-git clone https://github.com/Fajarxyta/User-Agent-List
+git clone https://github.com/Fajarrrrky/User-Agent-List
 ```
 
 ## Cara Penggunaan
